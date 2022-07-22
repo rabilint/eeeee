@@ -1,1 +1,1 @@
-worker: python commentbot.py
+worker: python main.py
